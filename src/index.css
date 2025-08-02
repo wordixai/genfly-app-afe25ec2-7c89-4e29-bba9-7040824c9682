@@ -82,7 +82,7 @@
     @apply relative overflow-hidden bg-gradient-to-br from-soul-pink-50 to-soul-purple-50
            border-2 border-soul-pink-200 rounded-2xl p-6 cursor-pointer
            hover:border-soul-pink-400 hover:shadow-lg transition-all duration-300
-           hover:scale-105 group;
+           hover:scale-105;
   }
   
   .compatibility-high {
